@@ -1,5 +1,5 @@
 # AMMO-Data-Challenge
-Desafio realizado para a oportunidade da AMMO Varejo, engenharia de dados com Spark.
+Desafio realizado para a AMMO Varejo, engenharia de dados com Spark.
 
 Aplicações:
 - Processamento paralelo.
